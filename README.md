@@ -1,1 +1,5 @@
-# R-for-DataScience-MS
+# R for DataScience 
+
+Slides from Microsoft Data Science Course
+
+
